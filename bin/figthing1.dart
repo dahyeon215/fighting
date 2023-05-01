@@ -5,4 +5,5 @@ void main(List<String> arguments) {
   print('hi');
   print('please');
   print("fighting");
+  print("CNU CSE");
 }
